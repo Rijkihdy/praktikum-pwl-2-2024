@@ -1,2 +1,3 @@
 Ini tugas pertama.
 Isi tugas pertama telah diubah.
+Menambahkan detail lebih lanjut pada tugas pertama.
